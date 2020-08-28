@@ -4,9 +4,7 @@
 
 ## :rocket: Sobre :rocket:
 
-<p> O GoRestaurant é uma aplicação ficticia em React.js que se trata de um painel de adm para restaurantes controlarem quais refeições estão disponíveis e quais estão indisponíveis.
-
-Desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.</p>
+<p> O GoRestaurant é uma aplicação em React Native. Trata-se de uma aplicação para restaurantes exibirem seus pratos .... Aplicação desevolvida  no Boptcamp da Rocketseat.</p>
 
 ## Preview
 
@@ -22,11 +20,10 @@ Desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.</p>
 
 ### Como executar
 
-- Clone este repositório ```git clone https://github.com/nathaliacristina20/gorestaurant.git```
+- Clone este repositório ```git clone https://github.com/delismachado.git```
 - Vá até o diretório ```cd gorestaurant```
 - Execute ```yarn``` para instalar as dependências
-- Execute ```yarn start``` para rodar a aplicação
-- Em outro terminal, execute ```yarn json-server server.json -p 3333``` para executar a simulação de uma API
+- Siga as instruções deste link: https://react-native.rocketseat.dev/android/emulador/
 
 Pronto! Você pode visualizar o GoRestaurant através do endereço http://localhost:3000
 
